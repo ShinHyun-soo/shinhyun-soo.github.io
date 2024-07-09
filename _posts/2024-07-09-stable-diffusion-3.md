@@ -1,8 +1,8 @@
 ---   
 layout: post   
-title:  stable-diffusion-3   
+title:  Stable-Diffusion-3   
 date:   2024-07-09 19:20:23 +0900   
-category: Diffusion Model  
+category: Diffusion-model  
 ---   
 
 
