@@ -3,6 +3,7 @@ layout: post
 title:  Stable-Diffusion-3   
 date:   2024-07-09 19:20:23 +0900   
 category: Diffusion-model  
+use_math: true  
 ---   
 
 
