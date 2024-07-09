@@ -3,6 +3,7 @@ layout: post
 title: Mobile-Diffusion 
 date: 2024-02-16 19:10:00 +0900 
 category : Diffusion-model
+use_math: true  
 ---
 
 MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [Zhao, Yang, et al., arXiv 2023]    
