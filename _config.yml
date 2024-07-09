@@ -37,6 +37,10 @@ plugins:
 category_dir: category/
 tag_dir: tag/
 markdown: kramdown
+highlighter: rounge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
