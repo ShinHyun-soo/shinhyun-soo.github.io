@@ -2,10 +2,12 @@
 layout: post   
 title:  stable-diffusion-3   
 date:   2024-07-09 19:20:23 +0900   
-category: AI   
+category: Diffusion Model  
 ---   
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 # DDPM    
 > $x_t = (1-t)x_0 + tϵ$    
