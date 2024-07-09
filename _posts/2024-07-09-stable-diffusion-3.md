@@ -13,10 +13,10 @@ category: AI
 > 여기서 $ϵ ∼ N(0,1)$ 가우시안 분포임. (노이즈)     
 
 ## Backward Process
->  &x_(0.7)& 에서 $M_(theta)$ 를 더하면 $ϵ_t$(순수 노이즈)가 나오게 $M_(theta)$ 학습. 
-> 여기서 $x_t$ - $M_(theta)$ = $x_0$ 원본 이미지가 나옴.  
-> Chain Process 인 이유는, 예측이 어렵기 때문.
-> $x_t - alpha ϵ_t$ , $alpha [0, 1]$
+>  &x_(0.7)& 에서 $M_(theta)$ 를 더하면 $ϵ_t$(순수 노이즈)가 나오게 $M_(theta)$ 학습.     
+> 여기서 $x_t$ - $M_(theta)$ = $x_0$ 원본 이미지가 나옴.      
+> Chain Process 인 이유는, 예측이 어렵기 때문.    
+> $x_t - alpha ϵ_t$ , $alpha [0, 1]$    
 
 
 
