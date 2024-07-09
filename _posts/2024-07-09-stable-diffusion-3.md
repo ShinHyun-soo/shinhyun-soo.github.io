@@ -5,9 +5,7 @@ date:   2024-07-09 19:20:23 +0900
 category: Diffusion Model  
 ---   
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 
 # DDPM    
 > $x_t = (1-t)x_0 + tϵ$    
