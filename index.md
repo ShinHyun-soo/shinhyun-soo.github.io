@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a undergraduate student at Hansung Univ.
+I am a Graduate student at Hansung Univ.
 
 ## Research Interests
 
