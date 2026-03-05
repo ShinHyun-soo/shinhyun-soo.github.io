@@ -2,3 +2,59 @@
 ---
 
 @import "minimal-light";
+
+.intro-card {
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  border: 1px solid rgba(4, 51, 97, 0.18);
+  background: linear-gradient(135deg, rgba(57, 153, 204, 0.08), rgba(57, 153, 204, 0.02));
+  box-shadow: 0 8px 24px rgba(4, 51, 97, 0.08);
+}
+
+.news-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 1.2rem;
+  border-left: 2px solid rgba(4, 51, 97, 0.2);
+}
+
+.news-timeline li {
+  position: relative;
+  margin: 0 0 0.9rem 0;
+}
+
+.news-timeline li::before {
+  content: "";
+  position: absolute;
+  left: -1.55rem;
+  top: 0.5rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: #043361;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #043361;
+}
+
+@media (prefers-color-scheme: dark) {
+  .intro-card {
+    border-color: rgba(62, 183, 240, 0.3);
+    background: linear-gradient(135deg, rgba(62, 183, 240, 0.14), rgba(62, 183, 240, 0.04));
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+  }
+
+  .news-timeline {
+    border-left-color: rgba(62, 183, 240, 0.35);
+  }
+
+  .news-timeline li::before {
+    background: rgb(62, 183, 240);
+  }
+
+  .news-date {
+    color: rgb(62, 183, 240);
+  }
+}
