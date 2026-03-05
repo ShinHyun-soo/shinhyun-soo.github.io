@@ -13,7 +13,7 @@
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem;
-  transition: transform 0.22s ease, background-color 0.22s ease, color 0.22s ease, box-shadow 0.22s ease}
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease}
 
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
@@ -189,6 +189,7 @@ papertitle {
     }
 
     .image.avatar img:hover {
+      transform: translateY(-2px);
       box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
     }
 
@@ -232,7 +233,7 @@ papertitle {
         padding: 20px;
         border: 1px solid rgba(4, 51, 97, 0.14);
         box-shadow: 0 8px 24px rgba(4, 51, 97, 0.14);
-        transition: transform 0.22s ease, box-shadow 0.22s ease;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
