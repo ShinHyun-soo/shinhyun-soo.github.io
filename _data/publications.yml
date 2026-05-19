@@ -4,7 +4,7 @@ main:
     authors: Hyungyum Jang†, <strong>Hyunsoo Shin†</strong>, Hawon Lee, Yena Jang, Sunghoon Jung*, Minji Jeon*
     conference_short: BMC Bioinf.
     conference: BioMed Central Ltd. Bioinformatics <strong>(BMC Bioinformatics)</strong>, 2026.
-    pdf: https://doi.org/10.1186/s12859-026-06447-7
+    pdf: https://rdcu.be/fjuAv
     code: https://github.com/KU-MedAI/MAI-spatial-transcriptomics
     #bibtex: https://bib.yliu.me
     image: ./assets/img/teaser_mai.png
