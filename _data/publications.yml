@@ -4,11 +4,11 @@ main:
     authors: Hyungyum Jang†, <strong>Hyunsoo Shin†</strong>, Hawon Lee, Yena Jang, Sunghoon Jung*, Minji Jeon*
     conference_short: BMC Bioinf.
     conference: BioMed Central Ltd. Bioinformatics <strong>(BMC Bioinformatics)</strong>, 2026.
-    #pdf: https://arxiv.org/pdf/
+    pdf: https://doi.org/10.1186/s12859-026-06447-7
     code: https://github.com/KU-MedAI/MAI-spatial-transcriptomics
     #bibtex: https://bib.yliu.me
     image: ./assets/img/teaser_mai.png
-    #notes: Early Accept
+    notes: Early Access
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
