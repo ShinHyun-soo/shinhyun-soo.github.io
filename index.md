@@ -12,7 +12,7 @@ I am a Graduate student at Hansung Univ.
 
 ## News
 
-- **[Apr. 2026]** My 1st paper has been accepted (_BMC Bioinformatics_ JCR IF=3.5 (Q1)). 
+- **[May. 2026]** My 1st paper has been published (_BMC Bioinformatics_ JCR IF=3.5 (Q1)). [paper](https://rdcu.be/fjuAv)
 - **[Mar. 2026]** I received the Encouragement Prize (4/458). [article](https://v.daum.net/v/HlmMlcWI1Q)
 - **[Feb. 2026]** I received the Achievement Award.
 - **[Aug. 2025]** I received the Sponsorship Prize (12/271). [article](https://www.donga.com/news/It/article/all/20250813/132178039/1)
