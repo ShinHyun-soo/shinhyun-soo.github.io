@@ -8,7 +8,7 @@ main:
     code: https://github.com/KU-MedAI/MAI-spatial-transcriptomics
     #bibtex: https://bib.yliu.me
     image: ./assets/img/teaser_mai.png
-    notes: † Equal Contribution
+    notes: Early Access
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
