@@ -6,7 +6,7 @@ main:
     conference: BioMed Central Ltd. Bioinformatics <strong>(BMC Bioinformatics)</strong>, 2026.
     pdf: https://rdcu.be/fjuAv
     code: https://github.com/KU-MedAI/MAI-spatial-transcriptomics
-    #bibtex: https://bib.yliu.me
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-mwxFpvnTyUJ:scholar.google.com/&output=citation&scisdr=Cli2oAXvENPXodfZZvU:AFyMTJUAAAAAahLffvUBwTqNaHGs5nNcfGPwoUM&scisig=AFyMTJUAAAAAahLffqlvYat0fyEmwCaafb-faNU&scisf=4&ct=citation&cd=-1&hl=ko&scfhb=1
     image: ./assets/img/teaser_mai.png
     notes: Early Access
 
