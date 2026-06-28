@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am interested in 3D Gaussian Splatting (3DGS).
+I am interested in 3D Gaussian Splatting (3DGS), Discrete Diffusion Multimodal Language Models (dMLLMs).
 
 ## News
 
