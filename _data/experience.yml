@@ -9,15 +9,6 @@ main:
     lab_url: https://sites.google.com/view/hs-vilab
     logo: /assets/img/hsu-logo.jpg
 
-  - school: Hansung University
-    location: Seoul, South Korea
-    status: Previously
-    role: Undergraduate Intern
-    advisor: Professor Heeseok Oh
-    lab: Visual Intelligence Lab.
-    lab_url: https://sites.google.com/view/hs-vilab
-    logo: /assets/img/hsu-logo.jpg
-
   - school: Korea University
     location: Seoul, South Korea
     status: Previously
