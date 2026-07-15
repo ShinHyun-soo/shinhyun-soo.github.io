@@ -8,12 +8,3 @@ main:
     lab: Visual Intelligence Lab.
     lab_url: https://sites.google.com/view/hs-vilab
     logo: /assets/img/hsu-logo.jpg
-
-  - school: Korea University
-    location: Seoul, South Korea
-    status: Previously
-    role: Research Collaborator
-    advisor: Professor Minji Jeon
-    lab: MedAI LAB
-    lab_url: https://medai.korea.ac.kr/
-    logo: /assets/img/ku_logo.png
