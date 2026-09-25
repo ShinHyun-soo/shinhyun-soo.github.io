@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am interested in 3D Gaussian Splatting (3DGS), Discrete Diffusion Multimodal Language Models (dMLLMs).
+I am  a Graudate Student in the Department of Applied Artificial Intelligence at Hansung University. My research focuses on devloping self corection AI systems.
 
 ## News
 
