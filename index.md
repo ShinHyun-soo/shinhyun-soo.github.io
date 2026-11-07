@@ -8,7 +8,7 @@ I am  a Graudate Student in the Department of Applied Artificial Intelligence at
 
 ## News
 
-- **[Nov. 2026]** My work has been cited for the first time.
+- **[Nov. 2026]** My first SCIE paper has received its first citation.
 - **[July. 2026]** Selected for the 2026 KOSAF Master's Excellence Scholarship (Science & Engineering)
 - **[May. 2026]** SCIE paper has been published (_BMC Bioinformatics_ JCR IF=4.4 (Q1)).
 
